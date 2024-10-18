@@ -1,0 +1,20 @@
+.container{
+    margin-top: 50px;
+}
+
+.accordion-header button {
+    color: pink;
+    font-weight: 600;
+    font-size: 26px;
+    background-color: black;
+}
+
+.accordion-body strong{
+    color: red;
+    font-weight: 30px;
+}
+
+.accordion-body {
+    color: blue;
+    background-color: blanchedalmond;
+}

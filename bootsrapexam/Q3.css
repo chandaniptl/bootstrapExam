@@ -1,0 +1,36 @@
+.offcanvas-body img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 70px;
+margin-bottom: 30px;
+}
+
+.offcanvas-body ul li a{
+    list-style:none;
+    text-decoration: none;
+    margin-left: 70px;
+    font-size: 30px;
+    font-weight: 700;
+    list-style: none;
+
+}
+
+.offcanvas-body ul li a:hover{
+    background-color: skyblue;
+    border-radius: 10px;
+ 
+}
+
+.offcanvas-body{
+    background-color: black;
+}
+
+.offcanvas-body h1{
+  color: skyblue;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 50px;
+
+} 
+
